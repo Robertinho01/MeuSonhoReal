@@ -1,0 +1,526 @@
+
+
+body {
+    background-color: #8A05BE;
+    width: 1440px;
+    height: 1024px;
+}
+h1 {
+    color: #FFFFFF; 
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 700;
+    
+    text-align: center;
+}
+h2 {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: center;
+}
+h3 {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+}
+h4 {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+}
+.titulo {
+    left: 345px;
+    top: 100px;
+    text-align: center;
+    position: relative;
+    height: 100px;
+    width: 940px;
+}
+.titulo1 {
+    left: 345px;
+    top: 65px;
+    text-align: center;
+    position: relative;
+    height: 100px;
+    width: 940px;
+}
+.titulo2 {
+    /* left: 345px; */
+    top: 100px;
+    text-align: center;
+    position: relative;
+    height: 381px;
+    width: 1200px;
+    left: 175px;
+}
+.titulo3 {
+    /* left: 345px; */
+    top: 100px;
+    text-align: center;
+    position: relative;
+    height: 381px;
+    width: 1200px;
+    left: 210px;
+}
+
+
+img {
+    margin-top: 15px;
+}
+
+.Termos {
+    width: 180.86px;
+    height: 250px;
+}
+.VolteLogo {
+    position: relative;
+    left: 50px;
+    top: 60px;
+}
+.VolteLogo2 {
+    position: relative;
+    right: 50px;
+    top: 60px;
+}
+.VolteLogo23 {
+    position: relative;
+    top: 20px;
+}
+.moto1 {
+    position: relative;
+    bottom: 180px;
+    width: 250px;
+    height: 192px;
+}
+.moto {
+    position: relative;
+    top: 20px;
+    width: 250px;
+    height: 192px;
+}
+.Forte {
+    position: relative;
+    top: 34px;
+    width: 95%;
+    height: 80%;
+}
+
+.Chuva {
+    position: relative;
+    bottom: 30px;
+    width: 118.44px;
+    height: 292.58px;
+}
+.gardar-fatia-png {
+    width: 176px;
+    height: 196px;
+    top: 25px;
+    position: relative;
+}
+.carro {
+    position: relative;
+    top: 88px;
+    width: 256.42px;
+    height: 70px;
+}
+.servico {
+    position: relative;
+    top: 0px;
+    width: 250px;
+    height: 200px;
+}
+
+.divida {
+    position: relative;
+    top: 40px;
+    width: 209px;
+    height: 160.82px;
+}
+.avatar {
+    position: relative;
+    top: 50px;
+    width: 800px;
+    height: 560px;
+}
+.avatar_2 {
+    position: relative;
+    top: 15px;
+    width: 811px;
+    
+}
+.avatar1 {
+    position: relative;
+    width: 800px;
+    height: 611px;
+}
+.avatar1_2 {
+    position: relative;
+    width: 800px;
+    height: 611px;
+}
+
+.icone1 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.icone1_1 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    left: 140px;
+}
+.icone1_2 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    left: 340px;
+}
+.icone1_23 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    left: 340px;
+    top: 75px;
+}
+.icone1_3 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    left: 440px;
+}
+
+.personagem1 {
+    width: 97px;
+    height: 166.62px;
+}
+.icone2 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 200px;
+    left: 380px;
+}
+.icone2_1 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    bottom: 270px;
+    left: 510px;
+}
+.container{
+    position:relative;
+    top: 10px;
+}
+.container1{
+    position:relative;
+    top: 60px;
+    left: 150px;
+}
+.container1_3{
+    position:relative;
+    top: 15px;
+    left: 150px;
+}
+.container1_2 {
+    position: relative;
+    top: 60px;
+    left: 75px;
+}
+.container1_23 {
+    position: relative;
+    top: 35px;
+    left: 68px;
+}
+.container1_234 {
+    position: relative;
+    top: 35px;
+    left: 175px;
+}
+.container1_24 {
+    position: relative;
+    top: 60px;
+    left: 275px;
+}
+.container2 {
+    position: relative;
+    top: 60px;
+    left: 300px;
+}
+.container1_25 {
+    position: relative;
+    top: 60px;
+    left: 180px;
+}
+.PosicaoValor {
+    
+    position: relative;
+    left: 10%;
+    
+}
+.valor {
+    width: 461px !important;
+    height: 112px !important;
+    color: #8A05BE !important;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: center;
+}
+.icone3 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 400px;
+    left: 780px;
+}
+.icone3_1 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    bottom: 230px;
+    left: 140px;
+}
+.icone4 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 350px;
+}
+.icone4_1 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    bottom: 505px;
+    left: 510px;
+}
+.icone5 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 550px;
+    left: 380px;
+}
+.icone6 {
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 750px;
+    left: 780px;
+}
+.btn {
+    border: 10px;
+    cursor: pointer;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%
+}
+
+.btn-green {
+    background: #fff;
+    color: #fff;
+    box-shadow: 0 5px 0 #ce7ed0;
+}
+
+.btn-green:hover {
+        background: #8A05BE73;
+        color: #fff;
+        box-shadow: 0 5px 0 #fff;
+}
+
+    .btn-green:active {
+        position: relative;
+        top: 5px;
+        box-shadow: none;
+    }
+
+.btn1 {
+    border: 10px;
+    cursor: pointer;
+    display: inline-block;
+    width: 270px;
+    height: 81px;
+    border-radius: 50%
+}
+.btn1_2 {
+    border: 10px;
+    cursor: pointer;
+    display: inline-block;
+    width: 370px;
+    height: 100px;
+    
+    
+}
+.btn1_24 {
+    border: 10px;
+    cursor: pointer;
+    display: inline-block;
+    width: 370px;
+    height: 100px;
+    
+    
+}
+.btn1_3 {
+    border: 10px;
+    cursor: pointer;
+    display: inline-block;
+    width: 370px;
+    
+}
+.btn1-green {
+    background: #fff;
+    color: #8A05BE !important;
+    box-shadow: 0 5px 0 #ce7ed0;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: lato;
+    line-height: 34px;
+    text-align: center;
+    padding-top: 35px;
+}
+
+    .btn1-green:hover {
+        background: #ce7ed0 !important;
+        color: #fff;
+        box-shadow: 0 5px 0 #fff;
+    }
+
+.btn1-green:active {
+        position: relative;
+        top: 5px;
+        box-shadow: none;
+    }
+.btn2 {
+    border: 10px;
+    cursor: pointer;
+    display: inline-block;
+    width: 276px;
+    height: 276px;
+    border-radius: 50%
+}
+
+.Poupar {
+    width: 192px;
+    height: 192px;
+    position: relative;
+    top: 30px;
+}
+.Coroa {
+    background-color: rgba(170, 170, 238, 0);
+    width: 304.98px;
+    height: 214px;
+    position: relative;
+    bottom: 165px;
+    right: 18px;
+}
+
+.poupar-mais-png {
+    position:relative;
+    width: 187.79px;
+    height: 181px;
+    top: 30px;
+}
+.logo{
+    height: 150px;
+    width: 250px;
+}
+
+/*------------------------------------------------------------------
+    HEADER
+-------------------------------------------------------------------*/
+.navbar1 {
+    width: 1046px;
+    
+}
+
+.Text {
+    background: #8A05BE;
+}
+
+.navbar-dark {
+    background: #ffffff;
+}
+
+    .navbar-dark .navbar-nav .nav-link {
+        color: #8A05BE;
+        letter-spacing: 1px;
+        font-size: 20px;
+        font-family: Lato;
+        font-weight: 700;
+        position: relative;
+    }
+
+    .navbar-dark .navbar-nav .nav-item {
+        margin: 0px 5px;
+    }
+
+    .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+        color: #ffffff;
+        background: #8A05BE;
+    }
+
+    .navbar-dark .navbar-nav .nav-link.active {
+        font-weight: 600;
+        color: #ffffff;
+        background: #3a3a3a;
+    }
+
+    .navbar-dark .navbar-nav .nav-link::after {
+        content: '';
+        width: 0;
+        height: 5px;
+        background: #ffffff;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 0px;
+        -webkit-transition: all .5s;
+        transition: all .5s;
+        z-index: 0;
+    }
+
+    .navbar-dark .navbar-nav .nav-link.active::after {
+        width: 50%;
+    }
+
+
+
+
